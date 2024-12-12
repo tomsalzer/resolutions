@@ -1,7 +1,7 @@
 ---
+layout: default
 title: Home
-layout: home
-[2024 Resolutions](https://tomsalzer.github.io/resolutions/2024resolutions)
+nav_enabled: true
 ---
 
 Tom test two.
