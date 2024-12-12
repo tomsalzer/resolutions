@@ -12,6 +12,13 @@ aux_links:
 layout: default
 title: Home
 
+sidebar: 
+    - 2024resolutions
+    - 2023resolutions
+    - 2022resolutions
+    - 2021resolutions
+    - 2020resolutions
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
