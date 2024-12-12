@@ -5,25 +5,21 @@ theme: just-the-docs
 # url: https://just-the-docs.github.io
 url: https://tomsalzer.github.io/resolutions
 
-links:
-    - [2024 Resolutions](2024resolutions)
-    - [2023 Resolutions](2023resolutions)
-    - [2022 Resolutions](2022resolutions)
-    - [2021 Resolutions](2021resolutions)
-    - [2020 Resolutions](2020resolutions)
-    
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
   
 
 layout: default
 title: Home
-sidebar: true
-
-
-# Enable or disable the side/mobile menu globally
-# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
 nav_enabled: true
+
+links:
+    - 2024 Resolutions: https://tomsalzer.github.io/resolutions/2024resolutions
+    - 2023 Resolutions: https://tomsalzer.github.io/resolutions/2023resolutions
+    - 2022 Resolutions: https://tomsalzer.github.io/resolutions/2022resolutions
+    - 2021 Resolutions: https://tomsalzer.github.io/resolutions/2021resolutions
+    
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
