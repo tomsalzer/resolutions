@@ -5,16 +5,14 @@ theme: just-the-docs
 # url: https://just-the-docs.github.io
 url: https://tomsalzer.github.io/resolutions
 
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-  
+# aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 layout: default
 title: Home
 nav_enabled: true
 
-links:
+nav_links:
     - 2024 Resolutions: https://tomsalzer.github.io/resolutions/2024resolutions
     - 2023 Resolutions: https://tomsalzer.github.io/resolutions/2023resolutions
     - 2022 Resolutions: https://tomsalzer.github.io/resolutions/2022resolutions
